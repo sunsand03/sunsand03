@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://sunsand03.github.io./](https://sunsand03.github.io./)
 
-- 💬 Ask me about **Javascript, SQL, PHP and Symfony.**
+- 💬 Ask me about **Javascript, React, SQL, HTML, CSS, PHP and Symfony.**
 
 - 📫 How to reach me **sandrineibraima@gmail.com**
 
