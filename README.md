@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, React, SQL, HTML, CSS, PHP and Symfony.**
 
-- 📫 How to reach me **sandrineibraima@gmail.com**
+- 📫 How to reach me **sandrinenombo03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
