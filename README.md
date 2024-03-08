@@ -1,3 +1,4 @@
+<!-- PRESENTATION -->
 <h1 align="center">Hello 👋, I'm Sandrine</h1>
 <h3 align="center">A web developer living in France.</h3>
 
@@ -11,29 +12,132 @@
 
 - 📫 How to reach me **sandrinenombo03@gmail.com**
 
+
+<!-- SOCIAL MEDIA -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sunsand03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sunsand03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandrinein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandrinein/" height="30" width="40" /></a>
+<a href="https://twitter.com/sunsand03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter icon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandrinenombo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </p>
+<!-- TECHNO -->
+
+<h3 align="left">Languages and Tools :</h3>
+<div align="start">
+<br>
+Frontend: HTML | CSS | JavaScript | React | Next.js | SASS | TypeScript | Twig | Bootstrap
+</br>
+Backend : Node.js | SQL  | PHP | Symfony | Mongo DB | Python
+</br>
+Other :  Visual Basic for Applications (VBA) | PHPUnit | Figma
+</br>
+CMS : Wordpress
+<br>
+
+<!-- PROJECTS -->
+
+<h2 align="center">Some of my projects</h2>
+<div align="center">
+	<table>
+		<tr>
+      <td width="50%">
+				<h3 align="center">Cooking Recipe</h3>
+				<div align="center">  
+					<a href='https://github.com/sunsand03/cooking-recipe' target="_blank">
+						<img src="./img/Screenshot_application_cooking-recipe.png" alt="scrrenshot of the application" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/sunsand03/cooking-recipe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+		        <a href="https://cooking-recipe-search.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>Next.js - React - JavaScript - CSS</strong></p>
+          <p>
+						Cooking Recipe is a culinary recipe search application.
+            Find your next meal here.
+					</p>
+          <br>
+          <br>
+          <br>                    
+				</div>
+			</td>
+      			<td width="50%">
+				<h3 align="center">Wikiditor</h3>
+				<div align="center">  
+					<a href='https://github.com/wikiditor/wikiprojet/tree/DEV' target="_blank">
+						<img src="./img/wikiditor.jpg" alt="scrrenshot of the application" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/wikiditor/wikiprojet/tree/DEV" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>		
+						</a>
+					</p>
+					<p><strong>PHP - Symfony - Twig - Bootstrap - Mongo</strong></p>
+          <p>
+						Redesign of the Wikipedia site with the integration of a note-taking tool, the Wikiditor. The application allows you to view a Wikipedia article on the left and drag-and-drop excerpts from the article into the editor on the right. The user can then save their project or export it as a PDF.
+					</p>
+				</div>
+			</td>       
+    </tr>
+    <tr>
+      <td width="50%">
+				<h3 align="center">Countries</h3>
+				<div align="center">  
+					<a href='https://github.com/sunsand03/countries' target="_blank">
+						<img src="./img/screenshot Home.png" alt="scrrenshot of the application" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/sunsand03/countries" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>		        
+						</a>
+					</p>
+					<p><strong>Next.js - React - JavaScript - SASS</strong></p>
+          <p>
+						Countries is an application that displays the various flags of countries around the world. By clicking on a flag, the user can access three pieces of information about the country: its name, the name of its capital, and its population. The user can sort the number of flags they want to see displayed or filter countries by continent.
+					</p>
+          <br>
+          <br>
+          <br>                    
+				</div>
+			</td>
+      			<td width="50%">
+				<h3 align="center">AzerType</h3>
+				<div align="center">  
+					<a href='https://github.com/sunsand03/azerType' target="_blank">
+						<img src="./img/screenshot_Azertype.png" alt="scrrenshot of the application" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/sunsand03/azerType" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+            <a href="https://snombo.alwaysdata.net/azertype/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>		
+						</a>
+					</p>
+					<p><strong>JavaScript - HTML - CSS</strong></p>
+          <p>
+						AzerType is an online application for learning to type faster on the keyboard. At the end of a session, the user sees their final score and average typing speed. They can share their final score by sending an email.
+					</p>
+				</div>
+			</td>       
+      </tr>			
+	</table>
+</div>
+<br />
+<br />
+<hr>
