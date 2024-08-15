@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools :</h3>
 <div align="start">
 <br>
-Frontend: HTML | CSS | JavaScript | React | Next.js | SASS | TypeScript | Twig | Bootstrap
+Frontend: HTML | CSS | JavaScript | Vite | React | Next.js | SASS | TypeScript | Twig | Bootstrap
 </br>
 Backend : Node.js | SQL  | PHP | Symfony | Mongo DB | Python
 </br>
