@@ -1,10 +1,10 @@
 <!-- PRESENTATION -->
 <h1 align="center">Hello 👋, I'm Sandrine</h1>
-<h3 align="center">A web developer living in France.</h3>
+<h3 align="center">Full Stack Developer 🚀</h3>
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently deepening my skills in **React and TypeScript**
 
-- 👯 I’m looking to **join a dynamic team where I can make a significant contribution. My goal is to collaborate on innovative projects that not only enrich me professionally, but also benefit the team and the company. I am motivated by challenges and willing to share my skills and experience to create impactful web solutions.**
+- 💼 I’m currently working as a **Full Stack Developer in a startup, building and shipping web applications. I’m passionate about writing clean, efficient code and continuously growing as a developer.**
 
 - 👨‍💻 Some of my projects are available at [https://sunsand03.github.io./](https://sunsand03.github.io./)
 
